@@ -103,3 +103,4 @@ async function main(): Promise<void> {
 window.addEventListener("DOMContentLoaded", async (_evt) => {
   await main();
 });
+
